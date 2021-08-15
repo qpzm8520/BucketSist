@@ -10,92 +10,12 @@
 <head>
 <link rel="stylesheet" href="../Swiper/swiper.min.css">
 <link rel="stylesheet" href="../Swiper/swiper.css">
+<link href="../css/header.css" type="text/css" rel="stylesheet" />
 <meta charset="UTF-8">
 <title></title>
 
 <style>
 
-@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
-body{
-}
-#toplist{
-	padding:5px;
-}
-#toplist ul{
-        margin : 0; padding : 0;
-		text-align:right;
-		margin-right : 100px;
-    }
-#toplist ul li{
-        display : inline-block;
-        list-style-type : none;
-        padding : 0;
-        font-size:13px;
-    }
-#toplist ul li a{
-		color:#333333;
-        text-decoration: none;
-        margin : 5px;
-    }
-#menubar {
-    }
-  
-#menubar ul{
-        margin : 0; padding : 0;  
-		text-align:center;
-    }
-#menubar ul li{
-        display : inline-block;
-        list-style-type : none;
-        padding : 15px 15px;
-    }
-#menubar ul li a{
-        text-decoration: none;
-        font-size : 15px;
-        font-weight : bold;
-        color:black;
-    }
-#menubar ul li a:hover {
-        color : black;
-        background-color:#D8D8D8;
-    } 
-  
-#title{
-	color:#333333;
-	font-family:Georgia, Serif;
-	text-align:center;
-	margin : 0;
-	
-}
-#title ul{
-	margin : 0; padding : 0;  
-	text-align:center;
-	
-}
-#title ul a{
-	margin : 0; padding : 0;  
-	text-align:center;
-	
-}
-#title ul li a img{
-	height:60px;
-	padding:20px;
-}
-#comfooter{
-	 background-color:#E6E6E6;
- 	 text-align:center;
- 	 height:100px;
-}
-#topdown{
-	display:scroll;
-	position:fixed;
-
-}
-#topdown img{
-    border-radius: 50%;
-    width:60px;
-    height:60px;
-}
 
 /* 메인 부분 */
 #category_list{
