@@ -1,8 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"
-    import = "jspexp.z01_database.*"
-    import = "jspexp.z02_vo.*"
-    import = "java.util.*"    
     %>
 <%
 	request.setCharacterEncoding("utf-8");
