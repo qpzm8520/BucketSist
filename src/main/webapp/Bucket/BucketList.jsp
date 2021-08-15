@@ -8,8 +8,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="./Swiper/swiper.min.css">
-<link rel="stylesheet" href="./Swiper/swiper.css">
+<link rel="stylesheet" href="../Swiper/swiper.min.css">
+<link rel="stylesheet" href="../Swiper/swiper.css">
 <meta charset="UTF-8">
 <title></title>
 
@@ -227,7 +227,7 @@ body{
     	<ul>
     		<li>
     			<a href="main.jsp" >
-    			<img src="./images/title.PNG"/>
+    			<img src="../images/title.PNG"/>
     			</a>
     		</li>
     	</ul>
@@ -247,15 +247,15 @@ body{
 	<div id="category_list">
 		<ul>
 			<li>
-			 	<a id="menu" href="#"><img src="./images/All.png"/></a> 
-				<a id="menu" href="#"><img src="./images/Travel.png"/></a>	
-				<a id="menu" href="#"><img src="./images/Sports.png"/></a>	
-				<a id="menu" href="#"><img src="./images/Food.png"/></a>	
-				<a id="menu" href="#"><img src="./images/NewSkills.png"/></a>	
-				<a id="menu" href="#"><img src="./images/Culture.png"/></a>	
-				<a id="menu" href="#"><img src="./images/Camping.png"/></a>	
-				<a id="menu" href="#"><img src="./images/Shopping.png"/></a>	
-				<a id="menu" href="#"><img src="./images/LifeStyle.png"/></a>	
+			 	<a id="menu" href="#"><img src="../images/All.png"/></a> 
+				<a id="menu" href="#"><img src="../images/Travel.png"/></a>	
+				<a id="menu" href="#"><img src="../images/Sports.png"/></a>	
+				<a id="menu" href="#"><img src="../images/Food.png"/></a>	
+				<a id="menu" href="#"><img src="../images/NewSkills.png"/></a>	
+				<a id="menu" href="#"><img src="../images/Culture.png"/></a>	
+				<a id="menu" href="#"><img src="../images/Camping.png"/></a>	
+				<a id="menu" href="#"><img src="../images/Shopping.png"/></a>	
+				<a id="menu" href="#"><img src="../images/LifeStyle.png"/></a>	
 			</li> 
 		</ul>
 		<div id="search">
@@ -267,7 +267,7 @@ body{
     <div class="swiper-wrapper">
         <div class="swiper-slide">
         	<table class="slide_table"align="center">
-        		<tr><td class="slide_td"colspan="3"><img src="./images/Travelground.png"/></td></tr>
+        		<tr><td class="slide_td"colspan="3"><img src="../images/Travelground.png"/></td></tr>
         		<tr><td style="color:blue; text-align:center; width:30%;">Travel</td><td style="text-align:cener;">Himan</td><td>2021-08-01</td></tr>
         		<tr><td colspan="3">바다구경하기 좋은 곳</td></tr>
         		<tr>
@@ -278,7 +278,7 @@ body{
         </div>
         <div class="swiper-slide">
         	<table class="slide_table"align="center">
-        		<tr><td class="slide_td"colspan="3"><img src="./images/SportsGround.png"/></td></tr>
+        		<tr><td class="slide_td"colspan="3"><img src="../images/SportsGround.png"/></td></tr>
         		<tr><td style="color:#BDBDBD; text-align:center; width:30%;">Sports</td><td style="text-align:cener;">버킷맨</td><td>2021-08-01</td></tr>
         		<tr><td colspan="3">이색 스포츠 체험하러 가기</td></tr>
         		<tr><td colspan="2" style="width:70%;"><input type="button" class="btn02" value="상세보기"></td><td style="width:30%;"><input type="button" class="btn03" value="+ADD"></td></tr>
@@ -287,7 +287,7 @@ body{
         </div>
         <div class="swiper-slide">
         	<table align="center" style="text-align:center;width:500px; height:500px; border-collapse:collapse; border:1px #E6E6E6 solid;">
-        		<tr><td colspan="2"><img src="./images/LifeStyle.png"/></td></tr>
+        		<tr><td colspan="2"><img src="../images/LifeStyle.png"/></td></tr>
         		<tr><td>Sports</td><td>2021.08/21</td></tr>
         		<tr><td colspan="2">여행가기 좋은곳2!</td></tr>
         		<tr><td colspan="2"><input type="button" value="상세보기"></td></tr>
@@ -305,8 +305,8 @@ body{
       <div class="swiper-scrollbar"></div>
   </div>
 	
-<script src="./Swiper/swiper.min.js"></script>		
-<script src="./Swiper/swiper.js"></script>		
+<script src="../Swiper/swiper.min.js"></script>		
+<script src="../Swiper/swiper.js"></script>		
 		
 <script>
 var mySwiper = new Swiper('.swiper-container', {

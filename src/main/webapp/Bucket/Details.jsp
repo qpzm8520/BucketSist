@@ -9,8 +9,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="./Swiper/swiper.min.css">
-<link rel="stylesheet" href="./Swiper/swiper.css">
+<link rel="stylesheet" href="../Swiper/swiper.min.css">
+<link rel="stylesheet" href="../Swiper/swiper.css">
 
 
 <meta charset="UTF-8">
@@ -138,7 +138,7 @@
   	  <div class="swiper-wrapper">
        	 <div class="swiper-slide" style="position:relative;">
        	 	<div class="top_image">
-       	 		<img src="./images/Travelground.png"/>
+       	 		<img src="../images/Travelground.png"/>
        	 		<div class="category_css">Travel</div>
        	 		<div class="title_css">바다구경하기 좋은 곳</div>
        	 		<div class="ADD_btn"><a class="btn01" href="#">+ ADD</a></div>
@@ -147,7 +147,7 @@
        	 </div>
        	 <div class="swiper-slide" style="position:relative;">
        	 	<div class="top_image">
-       	 		<img src="./images/space.png"/>
+       	 		<img src="../images/space.png"/>
        	 		<div class="category_css">Travel</div>
        	 		<div class="title_css">이천 별빛정원 우주</div>
        	 		<div class="ADD_btn"><a class="btn01" href="#">+ ADD</a></div>
@@ -156,7 +156,7 @@
        	 </div>
        	 <div class="swiper-slide" style="position:relative;">
        	 	<div class="top_image">
-       	 		<img src="./images/Griffith .png"/>
+       	 		<img src="../images/Griffith .png"/>
        	 		<div class="category_css">Travel</div>
        	 		<div class="title_css">그리피스 천문대에서 야경 즐기기</div>
        	 		<div class="ADD_btn"><a class="btn01" href="#">+ ADD</a></div>
@@ -196,18 +196,18 @@
      			<ul>
      				<li class="like_count"><p style="color:green; display : inline-block; ">37♥</p>명이 공감합니다.</li><br>
      				<li class="contents">
-     					 <img src="./images/user.PNG"/> 
-     					 <img src="./images/user.PNG"/> 
-     					 <img src="./images/user.PNG"/> 
-     					 <img src="./images/user.PNG"/> 
-     					 <img src="./images/user.PNG"/> 
-     					 <img src="./images/user.PNG"/> <br>
-     					 <img src="./images/user.PNG"/>
-     					 <img src="./images/user.PNG"/>
-     					 <img src="./images/user.PNG"/>
-     					 <img src="./images/user.PNG"/>
-     					 <img src="./images/user.PNG"/>
-     					 <img src="./images/user.PNG"/>
+     					 <img src="../images/user.PNG"/> 
+     					 <img src="../images/user.PNG"/> 
+     					 <img src="../images/user.PNG"/> 
+     					 <img src="../images/user.PNG"/> 
+     					 <img src="../images/user.PNG"/> 
+     					 <img src="../images/user.PNG"/> <br>
+     					 <img src="../images/user.PNG"/>
+     					 <img src="../images/user.PNG"/>
+     					 <img src="../images/user.PNG"/>
+     					 <img src="../images/user.PNG"/>
+     					 <img src="../images/user.PNG"/>
+     					 <img src="../images/user.PNG"/>
      					 
      				</li>
      			</ul>
@@ -217,8 +217,8 @@
      </div>
      
      
-<script src="./Swiper/swiper.min.js"></script>		
-<script src="./Swiper/swiper.js"></script>		
+<script src="../Swiper/swiper.min.js"></script>		
+<script src="../Swiper/swiper.js"></script>		
 <script>
 var mySwiper = new Swiper('.swiper-container', {
 	  navigation: {

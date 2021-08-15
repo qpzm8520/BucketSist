@@ -191,15 +191,15 @@ body{
 	<div id="category_list">
 		<ul>
 			<li>
-			 	<a id="menu" href="#"><img src="./images/All.png"/></a> 
-				<a id="menu" href="#"><img src="./images/Travel.png"/></a>	
-				<a id="menu" href="#"><img src="./images/Sports.png"/></a>	
-				<a id="menu" href="#"><img src="./images/Food.png"/></a>	
-				<a id="menu" href="#"><img src="./images/NewSkills.png"/></a>	
-				<a id="menu" href="#"><img src="./images/Culture.png"/></a>	
-				<a id="menu" href="#"><img src="./images/Camping.png"/></a>	
-				<a id="menu" href="#"><img src="./images/Shopping.png"/></a>	
-				<a id="menu" href="#"><img src="./images/LifeStyle.png"/></a>	
+			 	<a id="menu" href="#"><img src="../images/All.png"/></a> 
+				<a id="menu" href="#"><img src="../images/Travel.png"/></a>	
+				<a id="menu" href="#"><img src="../images/Sports.png"/></a>	
+				<a id="menu" href="#"><img src="../images/Food.png"/></a>	
+				<a id="menu" href="#"><img src="../images/NewSkills.png"/></a>	
+				<a id="menu" href="#"><img src="../images/Culture.png"/></a>	
+				<a id="menu" href="#"><img src="../images/Camping.png"/></a>	
+				<a id="menu" href="#"><img src="../images/Shopping.png"/></a>	
+				<a id="menu" href="#"><img src="../images/LifeStyle.png"/></a>	
 			</li> 
 		</ul>
 	</div>
@@ -208,7 +208,7 @@ body{
 		<table class="list_table" align="center">
 			<tr>
 				<td style="position:relative;"> 
-					<img src="./images/Travelground.png">
+					<img src="../images/Travelground.png">
 					<div class="text">
 						<p style="color:blue;">Travel</p>
 						<p style="color:white; font-size:1.2em; width:300px; height:30px;">
@@ -217,7 +217,7 @@ body{
 					</div>
 				</td>
 				<td style="position:relative;"> 
-					<img src="./images/SportsGround.png">
+					<img src="../images/SportsGround.png">
 					<div class="text">
 						<p style="color:#BDBDBD;">Sports</p>
 						<p style="color:white; font-size:1.2em; width:300px; height:30px;">특이한 운동 즐기기</p>
@@ -225,7 +225,7 @@ body{
 					</div>
 				</td>
  				<td style="position:relative;"> 
-					<img src="./images/FoodGround.PNG">
+					<img src="../images/FoodGround.PNG">
 					<div class="text">
 						<p style="color:#FF0000;">Foods</p>
 						<p style="color:white; font-size:1.2em; width:300px; height:30px;">독일족발 먹으러 가기</p>
@@ -233,7 +233,7 @@ body{
 					</div>
 				</td>
  				<td style="position:relative;"> 
-					<img src="./images/javaGround.PNG">
+					<img src="../images/javaGround.PNG">
 					<div class="text">
 						<p style="color:#F7FE2E;">New Skills</p>
 						<p style="color:white; font-size:1.2em; width:300px; height:30px;">컴퓨터 코딩 배워보기!</p>
@@ -243,7 +243,7 @@ body{
 			</tr>
 			<tr>
 				<td style="position:relative;"> 
-					<img src="./images/StarGround.PNG">
+					<img src="../images/StarGround.PNG">
 					<div class="text">
 						<p style="color:#F5A9F2;">Culture</p>
 						<p style="color:white; font-size:1.2em; width:300px; height:30px;">사하라 사막에서 별사진 찍기</p>
@@ -251,7 +251,7 @@ body{
 					</div>
 				</td>
 				<td style="position:relative;"> 
-					<img src="./images/CampingGround.PNG">
+					<img src="../images/CampingGround.PNG">
 					<div class="text">
 						<p style="color:#BE81F7;">Camping</p>
 						<p style="color:white; font-size:1.2em; width:300px; height:30px;">숲속에서 캠핑하기</p>
@@ -259,7 +259,7 @@ body{
 					</div>
 				</td>
 				<td style="position:relative;"> 
-					<img src="./images/ShoppingGround.PNG">
+					<img src="../images/ShoppingGround.PNG">
 					<div class="text">
 						<p style="color:#A9F5A9;">Shopping</p>
 						<p style="color:white; font-size:1.2em; width:300px; height:30px;">면세점에서 쇼핑하기</p>
@@ -267,7 +267,7 @@ body{
 					</div>
 				</td>
 				<td style="position:relative;"> 
-					<img src="./images/LifeStyleGround.PNG">
+					<img src="../images/LifeStyleGround.PNG">
 					<div class="text">
 						<p style="color:#FE2EF7;">Life Style</p>
 						<p style="color:white; font-size:1.2em; width:300px; height:30px;">나만의 홈시어터 가지기</p>
