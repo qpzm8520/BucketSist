@@ -77,8 +77,8 @@
 			<li style="float:left;"><a href="#">페이스북</a>
 			<li style="float:left;"><a href="#">인스타그램</a>
 			<li style="float:left;"><a href="#">트위터</a>
-            <li><a href="#">Login</a></li>
-            <li><a href="#">Sign Up</a></li>
+            <li><a href="..\login\login.jsp">Login</a></li>
+            <li><a href="..\login\reg.jsp">Sign Up</a></li>
    		</ul>
     </nav>
     <hr>
